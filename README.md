@@ -2,7 +2,11 @@
  
 Instant search for Netflix secret categories
 
-## Demo
+### Live demo
+
+https://funkyremi.github.io/secretflix/
+
+## Screenshot
 
 ![Demo](demo.png "Demo")
 
